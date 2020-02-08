@@ -1,3 +1,3 @@
-# Sales_Prediction
+# MARKET BASKET OPTIMIZATION
 
-MARKET BASKET OPTIMIZATION
+Machine Learning Application
